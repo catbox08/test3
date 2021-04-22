@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "783075924717",
+    "project_id": "logregist-6ac9e",
+    "storage_bucket": "logregist-6ac9e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:783075924717:android:32581f461e1032009b8ae4",
+        "android_client_info": {
+          "package_name": "com.example.logregist"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "783075924717-lm0mjqh0480d3e62l4mqqueibb0e7r7q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyATlRUAIHSRqxkcFl3-c8Q0KWVLkv8JWi8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "783075924717-lm0mjqh0480d3e62l4mqqueibb0e7r7q.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
